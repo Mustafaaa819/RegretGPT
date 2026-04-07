@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+# Data (Optional)
+ memory/graveyard.json
